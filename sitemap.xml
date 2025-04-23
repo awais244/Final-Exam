@@ -47,6 +47,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/become-a-kit-developer/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
